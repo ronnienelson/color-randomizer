@@ -1,0 +1,16 @@
+body{
+  text-align:center;
+}
+
+button{
+  background:black;
+  color:white;
+  padding:2em;
+  border-radius:25px;
+  transition:.5s;
+  font-size:1em;
+}
+button:hover{
+  background:white;
+  color:black;
+}
